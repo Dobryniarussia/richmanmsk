@@ -116,8 +116,8 @@ a {
 
 .section-3 {
   position: absolute;
-  width: 80vw;
-  height: 26vw;
+  width: 53vw;
+  height: 17vw;
   margin-top: 60px;
   margin-left: 45px;
   background-image: url("../5dbfeed69bf13e09fb55d844_1logo.jpg");
@@ -140,8 +140,8 @@ a {
   top: 0%;
   right: 0%;
   bottom: auto;
-  width: 53vw;
-  height: 17vw;
+  width: 80vw;
+  height: 26vw;
   margin-top: 50px;
 }
 
